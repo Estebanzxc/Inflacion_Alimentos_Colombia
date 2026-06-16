@@ -1,22 +1,32 @@
 # Inflacion_Alimentos_Colombia
+
+
+
+
 Análisis sobre la inflación de alimentos en Colombia (2014-2026) usando Excel, Python y Power BI. 
-.
+
 Contenido del repositorio 
-.
+
+
 Canasta_Familiar_version1	- Archivo excel inicial donde se copilo todos los datos del DANE / SIPSA
-.
+
+
 Transformacion de datos	 - Archivo PY de transformación donde calcula precio promedio por producto/año y la variación interanual (%)
-.
+
+
 CANASTA FAMILIAR 2023 - 2026 - Archivo excel que se genera apartir del script de python anterior 
-.
+
+
 Grafico_Bimodal - Archivo PY donde se valida la forma de la distribución de la variación anual para saber si el promedio de los datos sirve
-.
+
+
 BI CANASTA FAMILIAR 2023 - 2026		Archivo de Power BI donde se puede interacturar con el dashboard, posee 2 paginas donde se revisa la inflacion de productos y por zona geografica
-.
+
+
 INFORME BI - Archivo PDF donde se ve el tablero creado pero sin la posibilidad de interactuar
-.
-Análisis de inflación de 
-alimentos en Colombia			Archivo PDF culminatorio del proyecto donde se explica metodologia, hallazgos y limitaciones
+
+
+Análisis de inflación de alimentos en Colombia - Archivo PDF culminatorio del proyecto donde se explica metodologia, hallazgos y limitaciones
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
