@@ -46,4 +46,4 @@ Correo
 EstebanUribeRodriguez@hotmail.com
 
 Linkedin
-[https://www.linkedin.com/in/esteban-alejandro-uribe-rodriguez-332279417 ](https://www.linkedin.com/in/estebanzxc/)
+https://www.linkedin.com/in/estebanzxc/
